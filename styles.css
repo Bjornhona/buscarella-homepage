@@ -114,11 +114,11 @@ li {
 .logo-div {
   width: 30vw;
   max-width: 250px;
-  margin-left: 8vw;
+  margin-left: 6vw;
 }
 .left-column-text {
   margin: 0;
-  padding: 6vh 0 0 10vw;
+  padding: 6vh 0 0 8vw;
   z-index: 1;
 }
 .image-div {
